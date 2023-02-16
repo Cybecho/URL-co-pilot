@@ -7,10 +7,12 @@ URL Co-pilot.exe 만 다운받아주시면 됩니다.
 URL을 할당받을 키들은 다음과 같습니다.<br/>   
 F5나 F11 F12키는 크롬과 충돌이 심하기 때문에 입력을 막아뒀습니다.<br/>   
 <br/><br/><br/>
+
 ### step2
 <img width="10%" src="https://user-images.githubusercontent.com/42949995/219392767-8cdea519-5511-4d36-8066-419435a3df36.png"/>
 프로그램 다운받아주시고 해당 프로그램 실행시켜줍니다
 <br/><br/><br/><br/><br/>
+
 ### step3
 <img width="50%" src="https://user-images.githubusercontent.com/42949995/219394043-1c470575-ed0a-4f42-b4c5-12b3df9accec.png"/>
 <img width="50%" src="https://user-images.githubusercontent.com/42949995/219394950-8afbf08f-901a-4001-97ee-c1daaee16d08.png"/>
