@@ -21,7 +21,9 @@ F5나 F11 F12키는 크롬과 충돌이 심하기 때문에 입력을 막아뒀�
 <img width="70%" src="https://user-images.githubusercontent.com/42949995/219394043-1c470575-ed0a-4f42-b4c5-12b3df9accec.png"/>
 <img width="70%" src="https://user-images.githubusercontent.com/42949995/219394950-8afbf08f-901a-4001-97ee-c1daaee16d08.png"/>
 프로그램 실행시켜주시면 크게 URL 입력부분 / 적용부분만 보시면 됩니다만<br/>
+
 __URL 초기화를 누르면 전부 초기화되기 떄문에__<br/>
+
 URL 입력부분을 한번에 입력하는걸 추천드립니다.<br/>
 <br/><br/><br/>
 
