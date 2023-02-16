@@ -3,7 +3,6 @@ URL Co-pilot.exe 만 다운받아주시면 됩니다.
 # __*[다운로드](https://github.com/HelloZOOO/URL-co-pilot/raw/main/URL%20Co-pilot.exe)*__
 
 
-* * *
 <img width="10%" src="https://user-images.githubusercontent.com/42949995/219392767-8cdea519-5511-4d36-8066-419435a3df36.png"/>
 프로그램 다운받아주시고 해당 프로그램 실행시켜줍니다
 
