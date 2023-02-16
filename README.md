@@ -2,7 +2,7 @@
 URL Co-pilot.exe 만 다운받아주시면 됩니다.
 # __*[다운로드](https://github.com/HelloZOOO/URL-co-pilot/raw/main/URL%20Co-pilot.exe)*__
 
-<img width="50%" src="https://user-images.githubusercontent.com/42949995/219395147-3d13a84c-eea5-4a78-878f-4fb9f4cf0db8.png"/> 
+<img width="80%" src="https://user-images.githubusercontent.com/42949995/219395147-3d13a84c-eea5-4a78-878f-4fb9f4cf0db8.png"/> 
 URL을 할당받을 키들은 다음과 같습니다.   
 F5나 F11 F12키는 크롬과 충돌이 심하기 때문에 입력을 막아뒀습니다.   
 
@@ -22,7 +22,7 @@ URL 입력부분을 한번에 입력하는걸 추천드립니다.
 
 
 ## 적용된 모습
-<img width="50%" src="https://user-images.githubusercontent.com/42949995/219395323-6561e279-f122-4f55-a898-14efa02929b1.gif"/>
+<img width="80%" src="https://user-images.githubusercontent.com/42949995/219395323-6561e279-f122-4f55-a898-14efa02929b1.gif"/>
 URL을 전부 입력하시고 적용버튼을 누르면 각 키에 URL이 할당되어 크롬 내부에서 바로 탭이동이 가능합니다   &nbsp;
 해당 반매크로 프로그램은 다른 프로그램에서도 똑같이 작동하기 떄문에 꼭 크롬탭을 클릭해서 크롬에서만 사용해주세요   &nbsp;
 
