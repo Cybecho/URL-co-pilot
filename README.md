@@ -1,7 +1,7 @@
 # URL-co-pilot
 
 저장소 내부에 URL Co-pilot.exe 만 다운받아서 실행시켜주면 됩니다
-### __*[다운로드](https://github.com/HelloZOOO/URL-co-pilot/raw/main/URL%20Co-pilot.exe)*__
+## __*[다운로드](https://github.com/HelloZOOO/URL-co-pilot/raw/main/URL%20Co-pilot.exe)*__
 
 <img width="10%" src="https://user-images.githubusercontent.com/42949995/219392767-8cdea519-5511-4d36-8066-419435a3df36.png"/>
 위에 다운로드 버튼 눌러주시고 해당 프로그램 실행시켜줍니다
