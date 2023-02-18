@@ -40,8 +40,44 @@ def clearObj():
 def submit():
     submit_button.config(state=tk.DISABLED) #한번 눌리면 초기화
     reset_button.config(state=tk.NORMAL)
-    #Entry 값들을 배열로 불러와서 만약 entry가 null일 경우 submit도 nulld을 반환
-    Key_Ins.runUrl('insert', setUrl(ins_entry))
+'''
+    for i in All_entry[].length: //for은 필요 없을듯
+        if All_entry[0] == !null: #null값이 아니라면
+ 			Key_Ins.runUrl('insert', setUrl(ins_entry)	)           
+        if All_entry[1] == !null:
+            Key_Del.runUrl('delete', setUrl(del_entry))
+        if All_entry[2] == !null:
+            Key_Home.runUrl('home', setUrl(home_entry))
+        if All_entry[3] == !null:
+            Key_End.runUrl('end', setUrl(end_entry))
+        if All_entry[4] == !null:
+            Key_Pageup.runUrl('pageup', setUrl(pageup_entry))
+        if All_entry[5] == !null:
+            Key_Pagedown.runUrl('pagedown', setUrl(pagedown_entry))
+        if All_entry[6] == !null:
+            Key_F1.runUrl('f1', setUrl(f1_entry))
+        if All_entry[7] == !null:
+            Key_F2.runUrl('f2', setUrl(f2_entry))
+        if All_entry[8] == !null:
+            Key_F3.runUrl('f3', setUrl(f3_entry))
+        if All_entry[9] == !null:
+            Key_F4.runUrl('f4', setUrl(f4_entry))
+        if All_entry[10] == !null:
+            Key_F6.runUrl('f6', setUrl(f6_entry))
+        if All_entry[11] == !null:
+            Key_F7.runUrl('f7', setUrl(f7_entry))
+        if All_entry[12] == !null:
+            Key_F8.runUrl('f8', setUrl(f8_entry))
+        if All_entry[13] == !null:
+            Key_F9.runUrl('f9', setUrl(f9_entry))
+        if All_entry[14] == !null:
+            Key_F10.runUrl('f10', setUrl(f10_entry))
+        else:
+            return
+'''
+        	
+    #Entry 값들을 배열로 불러와서 만약 entry가 null일 경우 submit도 null을 반환
+	Key_Ins.runUrl('insert', setUrl(ins_entry)	)
     Key_Del.runUrl('delete', setUrl(del_entry))
     Key_Home.runUrl('home', setUrl(home_entry))
     Key_End.runUrl('end', setUrl(end_entry))
@@ -78,8 +114,9 @@ root.geometry(f"650x350+{int(monitor_width)}+{int(monitor_height)}")
 All_entry[] = {ins_entry,del_entry,home_entry
                 ,end_entry,pageup_entry,pagedown_entry
                 ,f1_entry,f2_entry,f3_entry,f4_entry
-                ,f5_entry,f6_entry,f7_entry,f8_entry
-                ,f9_entry,f10_entry,f11_entry,f12_entry}
+                ,f6_entry,f7_entry,f8_entry
+                ,f9_entry,f10_entry}
+
 ins_label = tk.Label(root, text="Ins")
 ins_entry = tk.Entry(root)
 del_label = tk.Label(root, text="Del")
