@@ -17,6 +17,7 @@ class URLCopiler:
         keyboard.press_and_release('enter')
 
     def runUrl(self, onKey, URL):
+        #만약 입력값이 null이라면 생성 자체를 막는다
         keyboard.add_hotkey(onKey, lambda: self.gotoUrl(URL))
         print(self)
 
@@ -39,6 +40,7 @@ def clearObj():
 def submit():
     submit_button.config(state=tk.DISABLED) #한번 눌리면 초기화
     reset_button.config(state=tk.NORMAL)
+    #Entry 값들을 배열로 불러와서 만약 entry가 null일 경우 submit도 nulld을 반환
     Key_Ins.runUrl('insert', setUrl(ins_entry))
     Key_Del.runUrl('delete', setUrl(del_entry))
     Key_Home.runUrl('home', setUrl(home_entry))
@@ -73,6 +75,11 @@ monitor_width = root.winfo_screenwidth()/2.5
 root.geometry(f"650x350+{int(monitor_width)}+{int(monitor_height)}")
 
 # Create input fields and labels for each hotkey
+All_entry[] = {ins_entry,del_entry,home_entry
+                ,end_entry,pageup_entry,pagedown_entry
+                ,f1_entry,f2_entry,f3_entry,f4_entry
+                ,f5_entry,f6_entry,f7_entry,f8_entry
+                ,f9_entry,f10_entry,f11_entry,f12_entry}
 ins_label = tk.Label(root, text="Ins")
 ins_entry = tk.Entry(root)
 del_label = tk.Label(root, text="Del")
