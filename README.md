@@ -8,6 +8,7 @@ URL Co-pilot.exe 만 다운받아주시면 됩니다.
 * ver2 업데이트 내용 *
 - 이제 키마다 URL적용 버튼을 가지게 되었습니다
 - shift + alt 를 눌렀을 때 '12121212' 가 입력됩니다 (버튼이 눌렸을때만 활성화)
+<img width="40%" src="https://user-images.githubusercontent.com/42949995/221928177-795b36bb-0a6a-4724-b7a6-f864023523c1.png"/> 
 
 <br/>
 
