@@ -1,7 +1,14 @@
 # URL-co-pilot
 #### URL On Hotkey
 URL Co-pilot.exe 만 다운받아주시면 됩니다.
-# __*[URL Co-pilot Ver1 다운로드](https://github.com/HelloZOOO/URL-co-pilot/raw/main/URL%20Co-pilot.exe)*__
+
+# __*[URL Co-pilot Ver2 다운로드](https://github.com/HelloZOOO/URL-co-pilot/raw/main/URL%20Co-pilot%202.exe)*__
+### __*[이전 버전들](https://github.com/HelloZOOO/URL-co-pilot/tree/main/OldVersion)*__
+
+* ver2 업데이트 내용 *
+- 이제 키마다 URL적용 버튼을 가지게 되었습니다
+- shift + alt 를 눌렀을 때 '12121212' 가 입력됩니다 (버튼이 눌렸을때만 활성화)
+
 <br/>
 
 ***
@@ -36,5 +43,4 @@ URL을 전부 입력하시고 적용 버튼을 누르면 각 키에 URL이 할�
 <br/><br/><br/>
 *반응좋으면 업데이트 할거*   
 - 키보드 입력 일시정지 기능   
-- 현재 URL 키매핑 저장 기능   
-- Entry에 값이 있는 부분에만 오브젝트 생성(현재는 빈칸을 포함하여 오브젝트생성)
+- 현재 URL 키매핑 저장 기능
